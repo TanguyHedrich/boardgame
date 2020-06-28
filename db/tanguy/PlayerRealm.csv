@@ -1,0 +1,46 @@
+id,bggID,bggUsername,name,icon,listPlays,isDefaultPlayer,isEnabled,anonymousIndex,playsCount,lastPlay,lastPlayed
+1,0,,Tanguy,assets://players/player81.png,<PlayRealm>{0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197},true,true,0,198,<PlayRealm>{196},1591979453598
+2,0,,Rachael,assets://players/player76.png,<PlayRealm>{0 1 8 9 18 19 21 25 29 30 31 36 43 44 46 49 56 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 79 80 81 82 83 84 85 87 93 94 102 103 104 105 106 107 108 120 121 122 123 124 125 126 127 128 129 130 132 133 139 140 141 146 149 150 151 152 153 159 160 163 164 165 166 167 168 169 170 171 172 173 174},false,true,0,86,<PlayRealm>{174},1590891499957
+3,0,,JB,assets://players/player83.png,<PlayRealm>{0 1 2 8 9 15 18 19 21 22 25 29 30 31 32 33 36 43 44 46 49 56 57 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 79 80 81 82 83 84 85 87 93 94 99 101 102 103 104 105 106 107 108 109 110 111 120 124 125 126 127 128 129 130 132 133 139 140 141 142 146 149 150 151 152 153 159 160 163 164 165 166 167 168 169 170 171 172 173 174},false,true,0,96,<PlayRealm>{174},1590891499957
+4,0,,Sylvain,assets://players/player75.png,<PlayRealm>{0 1 2 5 30 34 35 36 39 42 43 44 47 48 49 77 78 87 114 115 116 117 118 119},false,true,0,24,<PlayRealm>{119},1585102997094
+5,0,,Albert,assets://players/player73.png,<PlayRealm>{6 7 20 39 86},false,true,0,5,<PlayRealm>{86},1584285638768
+6,0,,Romain,assets://players/player69.png,<PlayRealm>{2 5 34 35 39 47 48 77 78 86},false,true,0,10,<PlayRealm>{86},1584285638768
+7,0,,Marijo,assets://players/player69.png,<PlayRealm>{2},false,true,0,1,<PlayRealm>{2},1578011274808
+8,0,,Benjamin,assets://players/player9.png,<PlayRealm>{3 4},false,true,0,2,<PlayRealm>{4},1578108975335
+9,0,,Maryse,assets://players/player26.png,<PlayRealm>{6 20},false,true,0,2,<PlayRealm>{20},1579800598023
+10,0,<null>,"Anonymous #1",<null>,<PlayRealm>{54 55},false,true,1,2,<PlayRealm>{55},1583043339922
+11,0,<null>,"Anonymous #2",<null>,<PlayRealm>{},false,true,2,0,<null>,0
+12,0,<null>,"Anonymous #3",<null>,<PlayRealm>{},false,true,3,0,<null>,0
+13,0,<null>,"Anonymous #4",<null>,<PlayRealm>{},false,true,4,0,<null>,0
+14,0,<null>,"Anonymous #5",<null>,<PlayRealm>{},false,true,5,0,<null>,0
+15,0,,"Raphaëlle ulysce",assets://players/player13.png,<PlayRealm>{7},false,true,0,1,<PlayRealm>{7},1578264320811
+16,0,,Maïlys,assets://players/player75.png,<PlayRealm>{8 21 22 109 110 111},false,true,0,6,<PlayRealm>{111},1584901812696
+17,0,,Alexis,assets://players/player82.png,<PlayRealm>{10 11 12 13 14 23 24 51 52 53 58},false,true,0,11,<PlayRealm>{58},1583632637485
+18,0,,Jjay,assets://players/player80.png,<PlayRealm>{16 17 114 115 116 117 118 119},false,true,0,8,<PlayRealm>{119},1585102997094
+19,0,,"Michael belge",assets://players/player96.png,<PlayRealm>{17},false,true,0,1,<PlayRealm>{17},1579486482040
+20,0,,Sam,assets://players/player100.png,<PlayRealm>{26 27 28 38 40 41},false,true,0,6,<PlayRealm>{41},1581706872465
+21,0,,"Vincent Coloc Sam",assets://players/question.png,<PlayRealm>{26 38 40 41},false,true,0,4,<PlayRealm>{41},1581706872465
+22,0,<null>,"Anonymous #6",<null>,<PlayRealm>{},false,true,6,0,<null>,0
+23,0,<null>,"Anonymous #7",<null>,<PlayRealm>{},false,true,7,0,<null>,0
+24,0,<null>,"Anonymous #8",<null>,<PlayRealm>{},false,true,8,0,<null>,0
+25,0,<null>,"Anonymous #9",<null>,<PlayRealm>{},false,true,9,0,<null>,0
+26,0,<null>,"Anonymous #10",<null>,<PlayRealm>{},false,true,10,0,<null>,0
+27,0,,JP,assets://players/question.png,<PlayRealm>{37 45 50 59 112 113 131 134 135 136 137 138 143 144 145 147 148 154 155 156 157 158 161 162 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197},false,true,0,47,<PlayRealm>{196},1591979453598
+28,0,,Rudy,assets://players/question.png,<PlayRealm>{37 50 59 113 134 135 136 161 183 186 187 188 189 190},false,true,0,14,<PlayRealm>{190},1591459995523
+29,0,,Carles,assets://players/question.png,<PlayRealm>{38},false,true,0,1,<PlayRealm>{38},1581705242821
+30,0,,"Guillaume Castell",assets://players/question.png,<PlayRealm>{38 41},false,true,0,2,<PlayRealm>{41},1581706872465
+31,0,,"Pascale Castell",assets://players/question.png,<PlayRealm>{38 41},false,true,0,2,<PlayRealm>{41},1581706872465
+34,0,,"Marilyn castell",assets://players/question.png,<PlayRealm>{38 40 41},false,true,0,3,<PlayRealm>{41},1581706872465
+35,0,,"Richard Castell",assets://players/question.png,<PlayRealm>{38},false,true,0,1,<PlayRealm>{38},1581705242821
+36,0,,"Jonathan Benilan",assets://players/question.png,<PlayRealm>{45 59 131 134 135 136 143 144 145 147 148 154 155 156 157 161 162 175 176 177 179 180 181 182 183 184 185 188 189 190},false,true,0,30,<PlayRealm>{177},1591544392675
+37,0,,"Mary mother Rachael",assets://players/question.png,<PlayRealm>{46},false,true,0,1,<PlayRealm>{46},1582255631193
+38,0,,"Bob father Rachael",assets://players/question.png,<PlayRealm>{46},false,true,0,1,<PlayRealm>{46},1582255631193
+39,0,,"Rémi Claire",assets://players/question.png,<PlayRealm>{55},false,true,0,1,<PlayRealm>{55},1583043339922
+40,0,,Papi,assets://players/player100.png,<PlayRealm>{65 66 67 68 69 70 71 72 73 74 75 76 79 80 81 82 83 84 85 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 120 121 122 123 124 125 126 127 128 129 130},false,true,0,49,<PlayRealm>{130},1585509344818
+41,0,,Lauren,assets://players/question.png,<PlayRealm>{88 89 90 91 92},false,true,0,5,<PlayRealm>{92},1584407244802
+42,0,,"Sylvain valet",assets://players/question.png,<PlayRealm>{101},false,true,0,1,<PlayRealm>{101},1584670407479
+43,0,,"Neom valet",assets://players/question.png,<PlayRealm>{101},false,true,0,1,<PlayRealm>{101},1584670407479
+44,0,,Nina-michelle,assets://players/question.png,<PlayRealm>{114 115 116 117 118 119},false,true,0,6,<PlayRealm>{119},1585102997094
+45,0,,Karine,assets://players/question.png,<PlayRealm>{114 115 116 117 118 119},false,true,0,6,<PlayRealm>{119},1585102997094
+46,0,,"Benjamin récré",assets://players/question.png,<PlayRealm>{114 115 116 117 118 119},false,true,0,6,<PlayRealm>{119},1585102997094
+47,0,,"Magalie Valet",assets://players/question.png,<PlayRealm>{132},false,true,0,1,<PlayRealm>{132},1585956089210

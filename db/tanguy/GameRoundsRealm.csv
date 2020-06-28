@@ -1,0 +1,302 @@
+id,game,name,description,color,icon,position
+1,<GameRealm>{0},XP,<null>,-749647,<null>,0
+2,<GameRealm>{0},Gold,<null>,-1642852,<null>,1
+3,<GameRealm>{0},Checks,<null>,-1,<null>,2
+17,<GameRealm>{4},Points,<null>,-1,<null>,0
+5,<null>,Points,<null>,-1,<null>,0
+6,<null>,Points,<null>,-1,<null>,0
+7,<GameRealm>{2},TR,<null>,-1,<null>,0
+8,<null>,TR,<null>,-1,<null>,0
+14,<null>,Checks,<null>,-1,<null>,2
+13,<null>,Gold,<null>,-1642852,<null>,1
+12,<null>,XP,<null>,-749647,<null>,0
+16,<null>,Points,<null>,-1,<null>,0
+18,<GameRealm>{1},Points,<null>,-1,<null>,0
+19,<GameRealm>{5},Points,<null>,-1,<null>,0
+20,<null>,Points,<null>,-1,<null>,0
+21,<GameRealm>{6},Points,<null>,-1,<null>,0
+22,<null>,Points,<null>,-1,<null>,0
+27,<null>,Points,<null>,-1,<null>,0
+24,<null>,Points,<null>,-1,<null>,0
+25,<null>,Points,<null>,-1,<null>,0
+26,<null>,Points,<null>,-1,<null>,0
+28,<GameRealm>{7},Points,<null>,-1,<null>,0
+29,<GameRealm>{8},Points,<null>,-1,<null>,0
+30,<null>,Points,<null>,-1,<null>,0
+31,<null>,TR,<null>,-1,<null>,0
+32,<GameRealm>{9},Points,<null>,-1,<null>,0
+33,<null>,Points,<null>,-1,<null>,0
+34,<null>,Points,<null>,-1,<null>,0
+35,<GameRealm>{10},Points,<null>,-1,<null>,0
+36,<null>,Points,<null>,-1,<null>,0
+37,<null>,TR,<null>,-1,<null>,0
+40,<null>,Points,<null>,-1,<null>,0
+39,<null>,Points,<null>,-1,<null>,0
+41,<GameRealm>{11},Légende,<null>,-1,<null>,0
+42,<GameRealm>{12},Points,<null>,-1,<null>,0
+43,<null>,Points,<null>,-1,<null>,0
+51,<GameRealm>{15},Points,<null>,-1,<null>,0
+45,<null>,Points,<null>,-1,<null>,0
+49,<null>,Points,<null>,-1,<null>,0
+47,<null>,Points,<null>,-1,<null>,0
+50,<GameRealm>{14},Points,<null>,-1,<null>,0
+52,<GameRealm>{13},"Fireworks points",<null>,-1,<null>,0
+53,<GameRealm>{16},Points,<null>,-1,<null>,0
+54,<null>,Points,<null>,-1,<null>,0
+55,<GameRealm>{17},Points,<null>,-1,<null>,0
+56,<null>,Points,<null>,-1,<null>,0
+57,<GameRealm>{19},Points,<null>,-1,<null>,0
+58,<null>,Points,<null>,-1,<null>,0
+59,<GameRealm>{20},Points,<null>,-1,<null>,0
+60,<null>,Points,<null>,-1,<null>,0
+61,<null>,XP,<null>,-749647,<null>,0
+62,<null>,Gold,<null>,-1642852,<null>,1
+63,<null>,Checks,<null>,-1,<null>,2
+64,<null>,XP,<null>,-749647,<null>,0
+65,<null>,Gold,<null>,-1642852,<null>,1
+66,<null>,Checks,<null>,-1,<null>,2
+67,<null>,Points,<null>,-1,<null>,0
+68,<GameRealm>{21},Points,<null>,-1,<null>,0
+69,<null>,Points,<null>,-1,<null>,0
+70,<GameRealm>{22},Points,<null>,-1,<null>,0
+71,<null>,Points,<null>,-1,<null>,0
+72,<null>,XP,<null>,-749647,<null>,0
+73,<null>,Gold,<null>,-1642852,<null>,1
+74,<null>,Checks,<null>,-1,<null>,2
+75,<null>,"Fireworks points",<null>,-1,<null>,0
+76,<null>,Points,<null>,-1,<null>,0
+77,<null>,Points,<null>,-1,<null>,0
+78,<null>,Points,<null>,-1,<null>,0
+79,<null>,Points,<null>,-1,<null>,0
+80,<GameRealm>{24},Points,<null>,-1,<null>,0
+81,<null>,Points,<null>,-1,<null>,0
+82,<null>,XP,<null>,-749647,<null>,0
+83,<null>,Gold,<null>,-1642852,<null>,1
+84,<null>,Checks,<null>,-1,<null>,2
+85,<null>,XP,<null>,-749647,<null>,0
+86,<null>,Gold,<null>,-1642852,<null>,1
+87,<null>,Checks,<null>,-1,<null>,2
+88,<null>,Points,<null>,-1,<null>,0
+89,<null>,Points,<null>,-1,<null>,0
+90,<null>,Légende,<null>,-1,<null>,0
+91,<null>,Légende,<null>,-1,<null>,0
+92,<null>,Légende,<null>,-1,<null>,0
+94,<null>,Points,<null>,-1,<null>,0
+95,<GameRealm>{25},Points,<null>,-1,<null>,0
+96,<GameRealm>{26},Points,<null>,-1,<null>,0
+97,<null>,Points,<null>,-1,<null>,0
+98,<GameRealm>{27},Points,<null>,-1,<null>,0
+99,<null>,Points,<null>,-1,<null>,0
+100,<GameRealm>{28},Win/Lose,<null>,-1,<null>,0
+101,<null>,Win/Lose,<null>,-1,<null>,0
+102,<null>,Légende,<null>,-1,<null>,0
+103,<GameRealm>{29},Points,<null>,-1,<null>,0
+104,<null>,Points,<null>,-1,<null>,0
+105,<GameRealm>{30},Points,<null>,-1,<null>,0
+106,<null>,Points,<null>,-1,<null>,0
+107,<null>,Points,<null>,-1,<null>,0
+108,<null>,Points,<null>,-1,<null>,0
+109,<null>,Points,<null>,-1,<null>,0
+110,<null>,Points,<null>,-1,<null>,0
+111,<null>,Points,<null>,-1,<null>,0
+112,<null>,Points,<null>,-1,<null>,0
+113,<null>,Points,<null>,-1,<null>,0
+114,<null>,Points,<null>,-1,<null>,0
+115,<null>,Points,<null>,-1,<null>,0
+116,<null>,Points,<null>,-1,<null>,0
+117,<null>,Points,<null>,-1,<null>,0
+118,<null>,Points,<null>,-1,<null>,0
+119,<null>,Points,<null>,-1,<null>,0
+120,<null>,Points,<null>,-1,<null>,0
+121,<null>,Points,<null>,-1,<null>,0
+122,<GameRealm>{31},Points,<null>,-1,<null>,0
+123,<null>,Points,<null>,-1,<null>,0
+124,<null>,XP,<null>,-749647,<null>,0
+125,<null>,Gold,<null>,-1642852,<null>,1
+126,<null>,Checks,<null>,-1,<null>,2
+127,<null>,XP,<null>,-749647,<null>,0
+128,<null>,Gold,<null>,-1642852,<null>,1
+129,<null>,Checks,<null>,-1,<null>,2
+130,<null>,Points,<null>,-1,<null>,0
+131,<null>,Points,<null>,-1,<null>,0
+132,<null>,Points,<null>,-1,<null>,0
+133,<GameRealm>{32},Points,<null>,-1,<null>,0
+134,<null>,Points,<null>,-1,<null>,0
+135,<null>,Points,<null>,-1,<null>,0
+136,<null>,Points,<null>,-1,<null>,0
+137,<GameRealm>{33},Points,<null>,-1,<null>,0
+138,<null>,Points,<null>,-1,<null>,0
+139,<null>,TR,<null>,-1,<null>,0
+140,<null>,Points,<null>,-1,<null>,0
+141,<null>,Points,<null>,-1,<null>,0
+142,<GameRealm>{34},Points,<null>,-1,<null>,0
+143,<null>,Points,<null>,-1,<null>,0
+144,<null>,Points,<null>,-1,<null>,0
+145,<null>,Points,<null>,-1,<null>,0
+146,<null>,Points,<null>,-1,<null>,0
+147,<null>,Points,<null>,-1,<null>,0
+148,<null>,Points,<null>,-1,<null>,0
+149,<GameRealm>{35},Points,<null>,-1,<null>,0
+150,<null>,Points,<null>,-1,<null>,0
+151,<null>,Points,<null>,-1,<null>,0
+152,<null>,Points,<null>,-1,<null>,0
+153,<null>,Points,<null>,-1,<null>,0
+154,<GameRealm>{36},Points,<null>,-1,<null>,0
+155,<null>,Points,<null>,-1,<null>,0
+156,<null>,Points,<null>,-1,<null>,0
+157,<null>,TR,<null>,-1,<null>,0
+158,<null>,Points,<null>,-1,<null>,0
+159,<null>,Points,<null>,-1,<null>,0
+160,<null>,Points,<null>,-1,<null>,0
+161,<null>,Points,<null>,-1,<null>,0
+162,<null>,Points,<null>,-1,<null>,0
+163,<null>,Points,<null>,-1,<null>,0
+164,<null>,Points,<null>,-1,<null>,0
+165,<GameRealm>{37},Points,<null>,-1,<null>,0
+166,<null>,Points,<null>,-1,<null>,0
+167,<null>,Points,<null>,-1,<null>,0
+168,<GameRealm>{38},Points,<null>,-1,<null>,0
+169,<null>,Points,<null>,-1,<null>,0
+170,<GameRealm>{39},Points,<null>,-1,<null>,0
+171,<null>,Points,<null>,-1,<null>,0
+172,<GameRealm>{40},Points,<null>,-1,<null>,0
+173,<null>,Points,<null>,-1,<null>,0
+174,<GameRealm>{41},"Rounds Won",<null>,-1,<null>,0
+175,<null>,"Rounds Won",<null>,-1,<null>,0
+176,<null>,"Rounds Won",<null>,-1,<null>,0
+177,<null>,"Rounds Won",<null>,-1,<null>,0
+178,<null>,"Rounds Won",<null>,-1,<null>,0
+179,<null>,"Rounds Won",<null>,-1,<null>,0
+180,<null>,"Rounds Won",<null>,-1,<null>,0
+181,<GameRealm>{42},Points,<null>,-1,<null>,0
+182,<null>,Points,<null>,-1,<null>,0
+183,<GameRealm>{43},Points,<null>,-1,<null>,0
+184,<null>,Points,<null>,-1,<null>,0
+185,<null>,Points,<null>,-1,<null>,0
+186,<GameRealm>{44},Points,<null>,-1,<null>,0
+187,<null>,Points,<null>,-1,<null>,0
+188,<null>,Points,<null>,-1,<null>,0
+189,<null>,Points,<null>,-1,<null>,0
+190,<null>,Points,<null>,-1,<null>,0
+191,<null>,Points,<null>,-1,<null>,0
+192,<null>,Points,<null>,-1,<null>,0
+193,<null>,Points,<null>,-1,<null>,0
+194,<null>,Points,<null>,-1,<null>,0
+195,<null>,Points,<null>,-1,<null>,0
+196,<null>,Points,<null>,-1,<null>,0
+197,<GameRealm>{45},Points,<null>,-1,<null>,0
+198,<null>,Points,<null>,-1,<null>,0
+199,<GameRealm>{46},Points,<null>,-1,<null>,0
+200,<null>,Points,<null>,-1,<null>,0
+201,<null>,Points,<null>,-1,<null>,0
+202,<null>,Points,<null>,-1,<null>,0
+203,<GameRealm>{47},Points,<null>,-1,<null>,0
+204,<null>,Points,<null>,-1,<null>,0
+205,<null>,Points,<null>,-1,<null>,0
+206,<GameRealm>{48},Reputation,<null>,-1,<null>,0
+207,<GameRealm>{48},artifacts,<null>,-1,<null>,1
+208,<GameRealm>{48},Publications,<null>,-1,<null>,2
+209,<GameRealm>{48},gold,<null>,-1,<null>,3
+210,<GameRealm>{48},Favours,<null>,-1,<null>,4
+211,<null>,Reputation,<null>,-1,<null>,0
+212,<null>,artifacts,<null>,-1,<null>,1
+213,<null>,Publications,<null>,-1,<null>,2
+214,<null>,gold,<null>,-1,<null>,3
+215,<null>,Favours,<null>,-1,<null>,4
+216,<GameRealm>{49},Points,<null>,-1,<null>,0
+217,<null>,Points,<null>,-1,<null>,0
+218,<null>,Points,<null>,-1,<null>,0
+219,<GameRealm>{50},culture,<null>,-1,<null>,0
+220,<null>,culture,<null>,-1,<null>,0
+221,<GameRealm>{51},Pontos,<null>,-1,<null>,0
+222,<null>,Pontos,<null>,-1,<null>,0
+223,<null>,Pontos,<null>,-1,<null>,0
+224,<null>,Points,<null>,-1,<null>,0
+225,<GameRealm>{52},Chips,<null>,-1,<null>,0
+226,<GameRealm>{52},Tableau,<null>,-1,<null>,1
+227,<GameRealm>{52},"Bonus (6+)",<null>,-1,<null>,2
+228,<null>,Chips,<null>,-1,<null>,0
+229,<null>,Tableau,<null>,-1,<null>,1
+230,<null>,"Bonus (6+)",<null>,-1,<null>,2
+231,<GameRealm>{53},"Points chips",<null>,-1,<null>,0
+232,<GameRealm>{53},Points,<null>,-1,<null>,0
+233,<GameRealm>{53},"Points buildings",<null>,-1,<null>,1
+234,<null>,"Points chips",<null>,-1,<null>,0
+235,<null>,Points,<null>,-1,<null>,0
+236,<null>,"Points buildings",<null>,-1,<null>,1
+237,<null>,"Points chips",<null>,-1,<null>,0
+238,<null>,Points,<null>,-1,<null>,0
+239,<null>,"Points buildings",<null>,-1,<null>,1
+240,<GameRealm>{54},Points,<null>,-1,<null>,0
+241,<null>,Points,<null>,-1,<null>,0
+242,<null>,Points,<null>,-1,<null>,0
+243,<null>,Points,<null>,-1,<null>,0
+244,<null>,Points,<null>,-1,<null>,0
+245,<null>,Points,<null>,-1,<null>,0
+246,<null>,"Points chips",<null>,-1,<null>,0
+247,<null>,Points,<null>,-1,<null>,0
+248,<null>,"Points buildings",<null>,-1,<null>,1
+249,<null>,"Points chips",<null>,-1,<null>,0
+250,<null>,Points,<null>,-1,<null>,0
+251,<null>,"Points buildings",<null>,-1,<null>,1
+252,<null>,"Points chips",<null>,-1,<null>,0
+253,<null>,Points,<null>,-1,<null>,0
+254,<null>,"Points buildings",<null>,-1,<null>,1
+255,<null>,"Points chips",<null>,-1,<null>,0
+256,<null>,Points,<null>,-1,<null>,0
+257,<null>,"Points buildings",<null>,-1,<null>,1
+258,<GameRealm>{55},Points,<null>,-1,<null>,0
+259,<null>,Points,<null>,-1,<null>,0
+260,<GameRealm>{56},Points,<null>,-1,<null>,0
+261,<null>,Points,<null>,-1,<null>,0
+262,<GameRealm>{18},Points,<null>,-1,<null>,0
+263,<null>,Points,<null>,-1,<null>,0
+264,<GameRealm>{57},Points,<null>,-1,<null>,0
+265,<null>,Points,<null>,-1,<null>,0
+266,<null>,Points,<null>,-1,<null>,0
+267,<null>,Points,<null>,-1,<null>,0
+268,<null>,Points,<null>,-1,<null>,0
+269,<GameRealm>{58},Points,<null>,-1,<null>,0
+270,<null>,Points,<null>,-1,<null>,0
+271,<GameRealm>{59},"Nemesis HP",<null>,-616056,<null>,0
+272,<GameRealm>{59},"Gravehold HP",<null>,-8336444,<null>,1
+273,<null>,"Nemesis HP",<null>,-616056,<null>,0
+274,<null>,"Gravehold HP",<null>,-8336444,<null>,1
+275,<null>,"Nemesis HP",<null>,-616056,<null>,0
+276,<null>,"Gravehold HP",<null>,-8336444,<null>,1
+277,<null>,"Nemesis HP",<null>,-616056,<null>,0
+278,<null>,"Gravehold HP",<null>,-8336444,<null>,1
+279,<null>,"Nemesis HP",<null>,-616056,<null>,0
+280,<null>,"Gravehold HP",<null>,-8336444,<null>,1
+281,<GameRealm>{60},Points,<null>,-1,<null>,0
+282,<null>,Points,<null>,-1,<null>,0
+283,<null>,"Nemesis HP",<null>,-616056,<null>,0
+284,<null>,"Gravehold HP",<null>,-8336444,<null>,1
+285,<null>,Points,<null>,-1,<null>,0
+286,<null>,Points,<null>,-1,<null>,0
+287,<null>,Points,<null>,-1,<null>,0
+288,<GameRealm>{61},Points,<null>,-1,<null>,0
+289,<null>,Points,<null>,-1,<null>,0
+290,<null>,Points,<null>,-1,<null>,0
+291,<null>,Points,<null>,-1,<null>,0
+292,<GameRealm>{62},Points,<null>,-1,<null>,0
+294,<null>,Points,<null>,-1,<null>,0
+296,<null>,Points,<null>,-1,<null>,0
+297,<null>,Points,<null>,-1,<null>,0
+298,<null>,Points,<null>,-1,<null>,0
+299,<null>,Points,<null>,-1,<null>,0
+300,<null>,Points,<null>,-1,<null>,0
+301,<null>,Points,<null>,-1,<null>,0
+302,<null>,Points,<null>,-1,<null>,0
+303,<null>,Points,<null>,-1,<null>,0
+304,<null>,Points,<null>,-1,<null>,0
+305,<null>,Points,<null>,-1,<null>,0
+306,<null>,Points,<null>,-1,<null>,0
+307,<null>,Points,<null>,-1,<null>,0
+308,<null>,Points,<null>,-1,<null>,0
+309,<null>,Points,<null>,-1,<null>,0
+310,<null>,Points,<null>,-1,<null>,0
+311,<null>,Points,<null>,-1,<null>,0
+312,<null>,Points,<null>,-1,<null>,0
+313,<null>,culture,<null>,-1,<null>,0
+314,<null>,culture,<null>,-1,<null>,0

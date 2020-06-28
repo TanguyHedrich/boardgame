@@ -1,0 +1,12 @@
+id,name,icon,latitude,longitude,accuracy,isDefaultLocation
+1,"Chez moi",assets://locations/location13.png,0,0,0,true
+2,"Chez Sylvain ",assets://locations/location8.png,0,0,0,false
+3,"Récré ",assets://locations/location1.png,0,0,0,false
+4,"Chez Albert",assets://locations/location1.png,0,0,0,false
+5,Ailleurs,assets://locations/location1.png,0,0,0,false
+6,"Chez Raphaëlle",assets://locations/location1.png,0,0,0,false
+7,"Chez Alexis",assets://locations/location1.png,0,0,0,false
+8,"Chez Sam",assets://locations/location1.png,0,0,0,false
+9,"Chez JP",assets://locations/location1.png,0,0,0,false
+10,"Chez Lauren",assets://locations/location1.png,0,0,0,false
+11,Internet,assets://locations/location1.png,0,0,0,false
